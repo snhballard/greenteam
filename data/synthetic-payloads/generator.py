@@ -9,7 +9,7 @@ from pathlib import Path
 # ---------------------------------------------------------------------------
 
 SEED = 42
-OUTPUT_DIR = Path("payloads")
+OUTPUT_DIR = Path("data/synthetic-payloads")
 
 TARGETS = {
     "simple": {
